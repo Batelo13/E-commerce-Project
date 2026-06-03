@@ -328,3 +328,7 @@ com.ecommerce.pedidos
 2. `POST http://localhost:8080/api/pedidos/1/pagar`
 3. `POST http://localhost:8080/api/pedidos/1/enviar`
 4. Tente `POST .../1/cancelar` depois de enviado → retorna 409 (transição inválida).
+
+---
+
+Documentação revisada em junho de 2026.
